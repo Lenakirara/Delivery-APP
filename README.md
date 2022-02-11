@@ -97,10 +97,9 @@ Você pode ler mais sobre os atributos `data-*` [neste link](https://developer.m
 
 1. Clone o repositório
 
-- `git clone git@github.com:tryber/sd-011-project-delivery-app.git`.
+- `git clone git@github.com:Lenakirara/Delivery-APP.git`.
+
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-011-project-delivery-app`
-- Vá para a branch do seu grupo, com `git checkout main-group-XX && git pull`, onde `XX` é o número do seu grupo. Exemplos: `main-group-1`, `main-group-22`.
 
 2. Instale as dependências
 
