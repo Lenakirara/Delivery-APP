@@ -1,5 +1,7 @@
 # Boas vindas ao repositório do projeto App de Delivery!
 
+Obs.: Estilizações em andamento...
+
 ## Contexto
 
 A distribuidora de cervejas da dona Tereza está se informatizando! 🚀 Seu negócio, antes focado em um local específico da cidade, passou a receber uma quantidade massiva de encomendas de outros pontos, expandindo sua atuação, sobretudo via delivery. Isso tudo graças ao excelente preço das bebidas e atendimento da equipe de vendas.
